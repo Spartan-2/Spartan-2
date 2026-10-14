@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on **Learning Backend Devlopment to host scaleable systems**
 
+- I am a Working professional integrating Agentic and LLM workflows for buisness impacts
+
 - 🌱 I’m currently learning **AiMl, Kotlin**
 
 - 👯 I’m looking to collaborate on **Web Dev and Android Dev**
